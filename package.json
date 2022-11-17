@@ -1,0 +1,28 @@
+{
+  "name": "promis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon quicknode.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Buffer": "0.0.0",
+    "axios": "^1.1.3",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "fetch": "^1.1.0",
+    "filereader": "^0.10.3",
+    "fs": "0.0.1-security",
+    "gulp-rename": "^2.0.0",
+    "imagemin-pngquant": "^4.2.2",
+    "nodemailer": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "web3.storage": "^4.4.0"
+  }
+}
